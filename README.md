@@ -20,6 +20,6 @@ I don't repost other people projects or use templates
 ### Fun facts
 
 - ☕ Can't drink coffee
-- 🇰🇷 Learning Korean
+- 🐕 I like dogs
 - 🎴 Favorite anime Doctor Stone
 - 🧱 I like challenges
