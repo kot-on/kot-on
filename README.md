@@ -1,9 +1,21 @@
-![Header](https://github.com/kot-on/kot-on/blob/main/assets/Efremov%20Egor.png)
+#Hey there 👋
 
-about me
+I'm Egor, a data anylist based in Russia
 
-Latest projects
+I mostly work for backend stuff - python, Javascript, SQL etc 
 
-Languages and tools
+---
+### Tools & tech
 
-Follow me
+- Python, scikit-learn, pandas
+- Javascript
+- MySQL, SQL workbench, SQLite 
+
+---
+
+### Fun facts
+
+- ☕ Can't drink coffee
+- 🇰🇷 Learning Korean
+- 🎴 Favorite anime Doctor Stone
+- 🧱 I like challenges
